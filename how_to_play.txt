@@ -1,0 +1,3 @@
+Guess the name of US states.  Correct answers (not case sensitive) will display on the map.
+
+If you give up, enter "quit" or "exit."  A csv will be created of the states that you missed.
